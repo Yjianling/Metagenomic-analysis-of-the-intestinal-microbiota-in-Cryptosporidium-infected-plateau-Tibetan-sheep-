@@ -1,0 +1,61 @@
+ID	sheep_number	sex	age	weight	class	parasite_load
+SH1	21	female	adult	25	positive	5.521632941
+SH2	25	female	adult	19	positive	1.34767
+SH3	45	female	adult	20	positive	0.497868444
+SH4	58	female	adult	19	positive	0.310492757
+SH5	69	female	adult	24	positive	0.44523019
+SH6	75	female	adult	20	positive	1.500138824
+SH7	81	female	adult	21	positive	0.102173818
+SH8	303	female	adult	25	positive	0.242673143
+SH9	344	female	adult	20	positive	107.2484667
+SH10	354	female	lamb	20	positive	22.96945455
+SH11	358	female	lamb	16	positive	8.707945263
+SH12	359	female	adult	16	positive	19.31065111
+SH13	379	female	adult	18	positive	5.703276522
+SH14	382	female	adult	20	positive	2.457881176
+SH15	520	male	lamb	8	positive	0.120501
+SH16	522	female	lamb	8	positive	2.242870476
+SH17	535	male	lamb	10	positive	0.323946667
+SH18	600	female	lamb	17	positive	557.9869565
+SH19	601	female	lamb	10	positive	3.625967273
+SH20	614	male	lamb	16	positive	0.876111167
+SH21	615	female	lamb	17	positive	0.760794286
+SH22	620	female	lamb	14	positive	20.2528
+SH23	621	female	lamb	15	positive	0.429361043
+SH24	622	female	lamb	16	positive	0.6654112
+SH25	628	female	lamb	15	positive	26.34631795
+SH26	635	female	lamb	10	positive	0.566347571
+SH27	642	female	lamb	15	positive	0.780338545
+SH28	647	female	lamb	16	positive	0.280912343
+SH29	652	female	lamb	9	positive	0.133923765
+SH30	663	female	lamb	19	positive	6.00164
+YK31	8	female	adult	20	control	
+YK32	11	female	adult	20	control	
+YK33	14	female	adult	25	control	
+YK34	16	female	adult	19	control	
+YK35	32	female	adult	17	control	
+YK36	39	female	adult	21	control	
+YK37	72	female	adult	19	control	
+YK38	94	female	adult	24	control	
+YK39	308	female	adult	25	control	
+YK40	327	female	adult	20	control	
+YK41	330	female	adult	18	control	
+YK42	356	female	adult	20	control	
+YK43	502	female	lamb	14	control	
+YK44	505	female	lamb	17	control	
+YK45	510	female	lamb	20	control	
+YK46	513	female	lamb	10	control	
+YK47	517	female	lamb	11	control	
+YK48	518	female	lamb	10	control	
+YK49	519	female	lamb	12	control	
+YK50	523	male	lamb	11	control	
+YK51	605	female	lamb	17	control	
+YK52	607	female	lamb	16	control	
+YK53	616	female	lamb	15	control	
+YK54	627	female	lamb	15	control	
+YK55	629	female	lamb	16	control	
+YK56	630	female	lamb	16	control	
+YK57	641	female	lamb	15	control	
+YK58	643	female	lamb	14	control	
+YK59	662	male	lamb	15	control	
+YK60	667	female	lamb	18	control	
